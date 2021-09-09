@@ -592,4 +592,5 @@ var QRCode;
 	QRCode.CorrectLevel = QRErrorCorrectLevel;
 })();
 
+console.log(QRCode);
 export default QRCode;
