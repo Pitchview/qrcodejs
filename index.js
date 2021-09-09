@@ -1,4 +1,6 @@
 import QRCode from './qrcode.js';
+
+console.log("QR Code.js");
 console.log(QRCode);
 
 export default QRCode;
